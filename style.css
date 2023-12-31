@@ -32,6 +32,20 @@ body {
     color: #fff;
     font-weight: bold;
 }
+#name {
+    font-size: 15rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.5rem;
+    color: #a88686;
+    font-weight: bold;
+}
+#from {
+    font-size: 7rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.5rem;
+    color: #56a34f;
+    font-weight: bold;
+}
 
 #year {
     font-family: "Neonderthaw", "Poiret One", cursive;
